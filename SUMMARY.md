@@ -1,16 +1,11 @@
 # 目  录
 
 * [前言](content/preface/preface-chinese.md)
-  * [Who this book is for](content/preface/whoThisBookIsFor-chinese.md)
-  * [What this book covers](content/preface/WhatThisBookCovers-chinese.md)
-  * [To get the most out of this book](content/preface/ToGetTheMostOutOfThisBook-chinese.md)
-  * [Additional reading resources](content/preface/AdditionalReadingResources-chinese.md)
-  * [Get in toch](content/preface/GetInToch-chinese.md)
 * [第0章 Setting up Your System](content/chapter0/0.0-chinese.md)
   * [0.1 Obtaining the code](content/chapter0/0.1-chinese.md)
   * [0.2 Docker image](content/chapter0/0.2-chinese.md)
   * [0.3 Installing perrequisite software](content/chapter0/0.3-chinese.md)
-  * [0.4Testing the recipse]content/chapter0/0.4-chinese.md()
+  * [0.4 Testing the recipse](content/chapter0/0.4-chinese.md)
   * [0.5 Reporting probliems and suggesting improvements]()
 * [第1章 From a Simplem Executable to Libraies](content/chapter1/1.0-chinese.md)
   * [1.1 Compiling a single source file into an executable](content/chapter1/1.1-chinese.md)
