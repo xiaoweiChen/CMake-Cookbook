@@ -1,0 +1,16 @@
+{
+    "title": "《CMake Cookbook》中文版",
+	
+	"author" : "陈晓伟 chenxiaowei",
+	
+    "description":"作为对《CMake Cookbook》英文版的中文翻译。",
+	
+	"language":"zh-hans",
+	
+	"direction":"ltr",
+	
+	"plugins": [
+		"katex",
+		"ace"
+	]
+}
