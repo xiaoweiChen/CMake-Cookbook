@@ -7,7 +7,7 @@
   * [0.3 安装必要的软件](content/chapter0/0.3-chinese.md)
   * [0.4 测试环境](content/chapter0/0.4-chinese.md)
   * [0.5 上报问题并提出改进建议](content/chapter0/0.5-chinese.md)
-* [第1章 可执行文件到库](content/chapter1/1.0-chinese.md)
+* [第1章 从可执行文件到库](content/chapter1/1.0-chinese.md)
   * [1.1 将单个源文件编译为可执行文件](content/chapter1/1.1-chinese.md)
   * [1.2 切换生成器](content/chapter1/1.2-chinese.md)
   * [1.3 构建和链接静态库和动态库](content/chapter1/1.3-chinese.md)
