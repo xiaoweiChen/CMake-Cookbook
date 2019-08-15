@@ -21,11 +21,11 @@ CMake Cookbook
 
 具有法国恩塞伊特大学的工程学学位和法国乌夫斯克大学的计算机科学博士学位的**Eric Noulard**博士。20多年来他使用多种语言编写源码。从2006年开始使用CMake，这些年来也一直是CMkae的积极贡献者。其职业生涯中，曾为私人公司和政府机构工作。他现在就职于Antiot，开发和营销高端信息检索技术和解决方案。
 
-**Eric Noulard**来自以色列，是一名软件开发人员和作家。从2000年起就为置身于各种开源和开放文化项目。除此之外，还发起过游戏解决方案，比如Pysol FC系列纸牌游戏，采用了《财富》模式，解决了290多个[欧拉问题](https://projecteuler.net/index.php?section=view)，并撰写了一些故事、随笔、格言等文章。
+**Eric Noulard**来自以色列，是一名软件开发人员和作家。从2000年起就为置身于各种开源和开放文化项目。除此之外，还发起过游戏解决方案，比如Pysol FC系列纸牌游戏，采用了*财富*模式，解决了290多个[欧拉问题](https://projecteuler.net/index.php?section=view)，并撰写了一些故事、随笔、格言等文章。
 
 ## 本书相关
 
-- github翻译地址：
-- gitbook 在线阅读：
+- github翻译地址：https://github.com/xiaoweiChen/CMake-Cookbook
+- gitbook 在线阅读：https://chenxiaowei.gitbook.io/cmake-cookbook
 - 本书源码下载地址：https://github.com/dev-cafe/cmake-cookbook
 
