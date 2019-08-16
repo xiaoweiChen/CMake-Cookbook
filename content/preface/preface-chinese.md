@@ -12,7 +12,7 @@ CMake及其姊妹CTest、CPack和CDash已经成为源码构建的主要工具集
 
 *随着时间的推移，搜索三个流行的构建系统：CMake、Automake和SCons。对比标准是通过搜索相关术语的次数来衡量的，其中数据由谷歌提供。*
 
-CMake项目的始于1999年，当时开发公司Kitware被委托设计一套新的工具来简化研究人员的日常工作软件。目标很明确：提供一组工具，使在不同平台上配置、构建、测试和部署相同的项目更加容易。有关CMake项目中设计的精彩叙述，请访问https://www.aosabook.org/en/cmake.html。
+CMake项目的始于1999年，当时开发公司Kitware被委托设计一套新的工具来简化研究人员的日常工作软件。目标很明确：提供一组工具，使在不同平台上配置、构建、测试和部署相同的项目更加容易。有关CMake项目中设计的精彩叙述，请访问 https://www.aosabook.org/en/cmake.html 。
 
 CMake是一个构建生成器，提供了一种强大的领域特定语言(DSL)来描述构建系统应该实现的功能。这是CMake的主要优势之一，因为它允许使用相同的CMake脚本集生成平台原生构建系统。CMake软件工具集使开发人员可以完全控制给定项目的整个生命周期：
 
@@ -102,13 +102,13 @@ CMake管理的项目的工作流发生在许多阶段(time)，我们称之为*�
 
 ##示例源码
 
-您可以从https://github.c om/dev-cafe/cmake-cookbook下载本书的示例代码示例。有关详细信息，请参见设置系统部分。
+您可以从 https://github.com/dev-cafe/cmake-cookbook 下载本书的示例代码示例。有关详细信息，请参见设置系统部分。
 
 
 
 ## 彩图下载
 
-我们还提供了一个PDF文件，其中包含本书中使用的屏幕截图/图表的彩色图像。您可以在这里下载:http://www.packtpub.com/sites/default/files/downloads/CMakeCookbook_ColorImages.pdf
+我们还提供了一个PDF文件，其中包含本书中使用的屏幕截图/图表的彩色图像。您可以在这里下载: http://www.packtpub.com/sites/default/files/downloads/CMakeCookbook_ColorImages.pdf 
 
 
 
@@ -121,7 +121,9 @@ CodeInText：表示文本、文件夹名称、文件名、模块名称和目标�
 代码块设置如下:
 
 > cmake_minimum_required(VERSION 3.5 FATAL_ERROR)
+>
 > project(recipe-01 LANGUAGES CXX)
+>
 > add_executable(hello-world hello-world.cpp)
 
 任何命令行输入都是粗体的，并在命令前面包含一个$提示符来输入:
@@ -139,45 +141,40 @@ $ ./hello-world
 Hello World!
 ```
 
-<img src="../../images/notes.png" width = "50"  div align=left />重要的提示会出现该标识。
+**NOTE** 重要的提示会出现该标识。
 
+**TIPS**提示和技巧会出现该标识。
 
-
-<img src="../../images/tips.png" width = "50"  div align=left /> 提示和技巧会出现该标识。
-
-
+(PS:原始标识由于在线上观看会使内容错位，观看体验下降，从而换成文字)
 
 ## 额外读物
 
-CMake的在线文档是全面的，我们将在全书中引用它:https://cmake.org/documentation/
+CMake的在线文档非常全面，我们将在书中引用它: https://cmake.org/documentation/
 
-在编写这本书的过程中，我们还受到了其他文章的启发：
+编写这本书的过程中，我们还受到了其他文章的启发：
 
 * Daniel Pfeifer在GitHub上的介绍:
   https://github.com/boostcon/cppnow_presentations_2017/blob/master/05-192017_friday/effective_cmake__daniel_pfeifer__cppnow_05-19-2017.pdf
-* Eric Noulard编写的CMake教程，可以在GitHub上找到:https://github.com/TheErk/CMake-tutorial
-* Craig Scott的“cmake相关”博文:https://crascit.com/tag/cmake/
+* Eric Noulard编写的CMake教程，可以在GitHub上找到: https://github.com/TheErk/CMake-tutorial
+* Craig Scott的“cmake相关”博文: https://crascit.com/tag/cmake/
 
-我们还推荐浏览Viktor Kirilov收集的CMake资源、脚本、模块和示例的列表:https://github.com/onqtam/awesome-cmake
+我们还推荐浏览Viktor Kirilov收集的CMake资源、脚本、模块和示例的列表: https://github.com/onqtam/awesome-cmake
 
 值得注意的是，我们的书并不是唯一一本涉及CMake的书：
 
 * 2015年，由Ken Martin和Bill Hoffman合著的《精通CMake》，Kitware Inc.出版。
-*  Craig Scott的《Professional CMake》： https://crascit.com/professional-cmake/
-
-
+*  Craig Scott的《Professional CMake》 https://crascit.com/professional-cmake/
 
 ## 联系方式
 
 我们欢迎读者的反馈。
 
-**源代码改进和问题**：请直接向https://github.com/dev-cafe/cmake-cookbook拉请求，并通过
-https://github.com/dev-cafe/cmake-cookbook/issues
+**源代码改进和问题**：请直接向 https://github.com/dev-cafe/cmake-cookbook 提出，并通过创建 https://github.com/dev-cafe/cmake-cookbook/issues 进行讨论
 
-**内容反馈**：电子邮件feedback@packtpub.com，并在邮件主题中提到书名。如果你对本书的任何方面有任何疑问，请发邮件至questions@packtpub.com
+**内容反馈**：电子邮件 feedback@packtpub.com ，并在邮件主题中提到书名。如果你对本书的任何方面有任何疑问，请发邮件至 questions@packtpub.com
 
-**勘误表**：虽然我们已经尽了一切努力确保我们的内容的准确性，错误确实会发生。如果您在这本书中发现了错误，务必清向我们报告，我们将不胜感激。请访问www.packtpub.com/submit-errata，选择您的图书，单击Errata提交表单链接，并输入详细信息。
+**勘误表**：虽然我们已经尽了一切努力确保我们的内容的准确性，但错误还是会有。如果您在这本书中发现了错误，务必向我们报告，不胜感激。请访问 www.packtpub.com/submit-errata ，选择您的图书，单击Errata提交表单链接，并输入详细信息。
 
-**盗版**：如果您在互联网上发现我们作品的任何形式的非法拷贝，如果您能提供我们的地址或网站名称，我们将不胜感激。请通过copyright@packtpub.com联系我们，并提供该材料的链接。
+**盗版**：如果您在互联网上发现我们作品的任何形式的非法拷贝，如果您能提供我们的地址或网站名称，我们将不胜感激。请通过 copyright@packtpub.com 联系我们，并提供该材料的链接。
 
-**如果你对名作者感兴趣**：如果有一个你擅长的主题，并且你对写作或为一本书做贡献感兴趣，请访问authors.packtpub.com
+**如果你对名作者感兴趣**：如果有一个你擅长的主题，并且你对写作或为一本书做贡献感兴趣，请访问 authors.packtpub.com
