@@ -17,7 +17,7 @@
   * [1.7 切换构建类型](content/chapter1/1.7-chinese.md)
   * [1.8 设置编译器选项](content/chapter1/1.8-chinese.md)
   * [1.9 为语言设定标准](content/chapter1/1.9-chinese.md)
-  * [1.10 使用控制流结构](content/chapter1/1.10-chinese.md)
+  * [1.10 使用控制流](content/chapter1/1.10-chinese.md)
 * [第2章 检测环境](content/chapter2/2.0-chinese.md)
   * [2.1 检测操作系统](content/chapter2/2.1-chinese.md)
   * [2.2 处理与平台相关的源代码](content/chapter2/2.2-chinese.md)
