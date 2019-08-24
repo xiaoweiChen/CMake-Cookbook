@@ -28,4 +28,5 @@ CMake Cookbook
 - github翻译地址：https://github.com/xiaoweiChen/CMake-Cookbook
 - gitbook 在线阅读：https://chenxiaowei.gitbook.io/cmake-cookbook
 - 本书源码下载地址：https://github.com/dev-cafe/cmake-cookbook
+- 本书源码下载地址：https://github.com/PacktPublishing/CMake-Cookbook
 
