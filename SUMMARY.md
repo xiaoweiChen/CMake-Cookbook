@@ -44,7 +44,7 @@
   * [4.5 使用动态分析来检测内存缺陷](content/chapter4/4.5-chinese.md)
   * [4.6 测试预期失败](content/chapter4/4.6-chinese.md)
   * [4.7 使用超时测试运行时间过长的测试](content/chapter4/4.7-chinese.md)
-  * [4.8 并行运行测试](content/chapter4/4.8-chinese.md)
+  * [4.8 并行测试](content/chapter4/4.8-chinese.md)
   * [4.9 运行测试子集](content/chapter4/4.9-chinese.md)
   * [4.10 使用测试设备](content/chapter4/4.10-chinese.md)
 * [第5章 配置时和构建时的操作](content/chapter5/5.0-chinese.md)
