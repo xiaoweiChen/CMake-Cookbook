@@ -52,7 +52,7 @@
   * [5.2 配置时运行自定义命令](content/chapter5/5.2-chinese.md)
   * [5.3 构建时运行自定义命令:Ⅰ. 使用add_custom_command](content/chapter5/5.3-chinese.md)
   * [5.4 构建时运行自定义命令:Ⅱ. 使用add_custom_target](content/chapter5/5.4-chinese.md)
-  * [5.5 构建时为特定目标运行自定义命令](content/chapter5/5.4-chinese.md)
+  * [5.5 构建时为特定目标运行自定义命令](content/chapter5/5.5-chinese.md)
   * [5.6 探究编译和链接命令](content/chapter5/5.6-chinese.md)
   * [5.7 探究编译器标志命令](content/chapter5/5.7-chinese.md)
   * [5.8 探究可执行命令](content/chapter5/5.8-chinese.md)
