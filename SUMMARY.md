@@ -98,7 +98,7 @@
   * [11.2 使用CMake/pybind11构建的C++/Python项目，通过PyPI发布](content/chapter11/11.2-chinese.md)
   * [11.3 使用CMake/CFFI构建C/Fortran/Python项目，通过PyPI发布](content/chapter11/11.3-chinese.md)
   * [11.4 以Conda包的形式发布一个简单的项目](content/chapter11/11.4-chinese.md)
-  * [11.5 将作为Conda包依赖项发布给项目](content/chapter11/11.5-chinese.md)
+  * [11.5 将Conda包作为依赖项发布给项目](content/chapter11/11.5-chinese.md)
 * [第12章 构建文档](content/chapter12/12.0-chinese.md)
   * [12.1 使用Doxygen构建文档](content/chapter12/12.1-chinese.md)
   * [12.2 使用Sphinx构建文档](content/chapter12/12.2-chinese.md)
