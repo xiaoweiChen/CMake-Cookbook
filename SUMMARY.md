@@ -104,7 +104,7 @@
   * [12.2 使用Sphinx构建文档](content/chapter12/12.2-chinese.md)
   * [12.3 结合Doxygen和Sphinx](content/chapter12/12.3-chinese.md)
 * [第13章 选择生成器和交叉编译](content/chapter13/13.0-chinese.md)
-  - [13.1 使用Visual Studio 2017构建CMake项目](content/chapter13/13.1-chinese.md)
+  - [13.1 使用CMake构建Visual Studio 2017项目](content/chapter13/13.1-chinese.md)
   - [13.2 交叉编译hello world示例](content/chapter13/13.2-chinese.md)
   - [13.3 使用OpenMP并行化交叉编译Windows二进制文件](content/chapter13/13.3-chinese.md)
 * [第14章 测试指示面板](content/chapter14/14.0-chinese.md)
