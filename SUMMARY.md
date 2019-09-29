@@ -115,7 +115,7 @@
 * [第15章 使用CMake构建已有项目](content/chapter15/15.0-chinese.md)
   - [15.1 如何开始迁移项目](content/chapter15/15.1-chinese.md)
   - [15.2 生成文件并编写平台检查](content/chapter15/15.2-chinese.md)
-  - [15.3 检测所需的依赖关系和链接](content/chapter15/15.3-chinese.md)
+  - [15.3 检测所需的链接和依赖关系](content/chapter15/15.3-chinese.md)
   - [15.4 复制编译标志](content/chapter15/15.4-chinese.md)
   - [15.5 移植测试](content/chapter15/15.5-chinese.md)
   - [15.6 移植安装目标](content/chapter15/15.6-chinese.md)
