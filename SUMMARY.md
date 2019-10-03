@@ -36,7 +36,7 @@
     * [3.7 检测Eigen库](content/chapter3/3.7-chinese.md)
     * [3.8 检测Boost库](content/chapter3/3.8-chinese.md)
     * [3.9 检测外部库:Ⅰ. 使用pkg-config](content/chapter3/3.9-chinese.md)
-    * [3.10 检测外部库:Ⅱ. 书写find模块](content/chapter3/3.10-chinese.md)
+    * [3.10 检测外部库:Ⅱ. 自定义find模块](content/chapter3/3.10-chinese.md)
 * [第4章 创建和运行测试](content/chapter4/4.0-chinese.md)
     * [4.1 创建一个简单的单元测试](content/chapter4/4.1-chinese.md)
     * [4.2 使用Catch2库进行单元测试](content/chapter4/4.2-chinese.md)
