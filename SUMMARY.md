@@ -72,7 +72,7 @@
     * [7.3 编写函数来测试和设置编译器标志](content/chapter7/7.3-chinese.md)
     * [7.4 用指定参数定义函数或宏](content/chapter7/7.4-chinese.md)
     * [7.5 重新定义函数和宏](content/chapter7/7.5-chinese.md)
-    * [7.6 废弃使用函数、宏和变量](content/chapter7/7.6-chinese.md)
+    * [7.6 使用废弃函数、宏和变量](content/chapter7/7.6-chinese.md)
     * [7.7 add_subdirectory的限定范围](content/chapter7/7.7-chinese.md)
     * [7.8 使用target_sources避免全局变量](content/chapter7/7.8-chinese.md)
     * [7.9 组织Fortran项目](content/chapter7/7.9-chinese.md)
