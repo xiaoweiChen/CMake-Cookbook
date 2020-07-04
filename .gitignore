@@ -1,3 +1,7 @@
 /_book/
+/rst/chapter*
+/rst/preface
+/rst/_build
 /node_modules/
 *.pdf
+*.rst
